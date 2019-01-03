@@ -1,0 +1,39 @@
+.home{
+    background: color($colors, primary);
+    color: color($colors, light);
+    margin-top: 30px;
+}
+
+.toolbar-title{
+    text-align: center;
+}
+
+.tabs-md .tab-button-icon{
+    color: #ccc;
+}
+
+.temp{
+    font-size: 98px;
+    text-align: center;
+    font-weight: normal;
+}
+
+.location .icon .desc .time{
+    text-align: center;
+}
+
+.icon img{
+    width: 120px;
+    text-align: center;
+}
+.location{
+    font-size: 40px;
+}
+
+.desc{
+    font-size: 30px;
+}
+
+.time{
+    font-size: 20px;
+}
